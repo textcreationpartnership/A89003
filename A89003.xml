@@ -1,0 +1,812 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The difference about church government ended: by taking away the distinction of government into ecclesiasticall and civill: and proving the government of the civill magistrate onely sufficient in a Christian kingdom. / Written by one that by making peace, prefers to be called a blessed childe of God, before preeminence in this world. J.M. D. D. Published according to order.</title>
+            <author>Mayne, Jasper, 1604-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89003</idno>
+            <idno type="STC">Wing M1470</idno>
+            <idno type="STC">Thomason E339_8</idno>
+            <idno type="STC">ESTC R200855</idno>
+            <idno type="EEBO-CITATION">99861481</idno>
+            <idno type="PROQUEST">99861481</idno>
+            <idno type="VID">113618</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113618)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E339[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The difference about church government ended: by taking away the distinction of government into ecclesiasticall and civill: and proving the government of the civill magistrate onely sufficient in a Christian kingdom. / Written by one that by making peace, prefers to be called a blessed childe of God, before preeminence in this world. J.M. D. D. Published according to order.</title>
+                  <author>Mayne, Jasper, 1604-1672.</author>
+               </titleStmt>
+               <extent>[4], 14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.L. for William Leake, and are to be sold at his shop at the signe of the Crowne in Fleetstreet between the two Temple gates.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.M. = Jasper Mayne.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "May 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113618:1"/>
+            <pb facs="tcp:113618:1" rendition="simple:additions"/>
+            <p>THE
+DIFFERENCE
+ABOVT
+CHURCH
+GOVERNMENT
+<hi>ENDED:</hi>
+By taking away the Diſtinction of
+Government into Eccleſiaſticall and Civill: and
+proving the Government of the Civill
+Magiſtrate onely ſufficient in a
+Chriſtian Kingdom.</p>
+            <p>Written by one that by making peace, prefers to be called a
+bleſſed childe of God, before preiminence in this world.</p>
+            <p>
+               <hi>J. M.</hi> D. D.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON.</hi>
+Printed, by <hi>R. L.</hi> for <hi>William Leake,</hi> and are to be
+ſold at his ſhop at the ſigne of the Crowne in <hi>Fleet ſtreet</hi>
+between the two Temple gates. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113618:2"/>
+            <pb facs="tcp:113618:2"/>
+            <head>To the High and Honourable Court
+of PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving penned my Meditations
+about Church Government, I
+had ſome thoughts to commend
+them (right Chriſtian and Ho<g ref="char:EOLhyphen"/>nourable
+Senate) to your conſide<g ref="char:EOLhyphen"/>ration
+and protection. But being
+conſcious to my ſelf of my own
+weakneſſe, I was ſometime in
+ſuſpence, as thinking it too high
+preſumption for me ſo to do. But
+for ſo much as that which I have here written, is, as I am
+perſwaded the Truth of God, and tends to the entituling of
+you to that power which of right belongs unto you, as I doubt
+not, but yee out of your own profound wiſdome are inclinable
+to think and hold: (whereby if yee do not ſpeedily ſet this
+power aworke, Diviſions and Errours and Contentions are
+likely to increaſe amongst us more and more, and ſo for want
+of a timely proviſion made, Iniquity and Hereſie to abound
+<pb facs="tcp:113618:3"/>
+more, to the blemiſhing of our Church and Gods high diſho<g ref="char:EOLhyphen"/>nour)
+I have made bold, as a feeling member of Chriſts my<g ref="char:EOLhyphen"/>ſticall
+body, to preſent it to your honourable view. And if upon
+peruſall yee ſhall think it to be the Truth, I beſeech you im<g ref="char:EOLhyphen"/>brace
+it, and knowing what the power is, which in a Chri<g ref="char:EOLhyphen"/>ſtian
+Kingdome ought to beare ſway both in Church and
+Common-wealth, for the curbing and puniſhing of all evill
+doers, delay not to ſet it up. And <hi>eadem opera,</hi> quell the di<g ref="char:EOLhyphen"/>viſion
+ſo dangerous, which ariſeth from the groundleſſe di<g ref="char:EOLhyphen"/>ſtinction,
+as I conceive, betwixt Government Civill and Ec<g ref="char:EOLhyphen"/>cleſiaſticall
+amongst us, and let the ſword of the Magiſtrate
+be regularly ſharpned against thoſe new upſtart blaſphemous
+Seducers, upon whom it ſhall appeare that the ſword of the
+ſpirit can do no good, and in this ſo neceſſary a worke the God<g ref="char:punc">▪</g>
+of Heaven direct and bleſſe your pious endevours, that <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+already he hath done great and mighty acts by you for the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+of the Church and Commonwealth, ſo he may make you inſtru<g ref="char:EOLhyphen"/>ments 
+of this good to his Church alſo. And ſo <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+ving pardon for my preſumption, and that it may be <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+to a good deſire, I rest ready whether approved or reproved, to
+ſubmit to your cenſures.</p>
+            <closer>
+               <signed>J. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:113618:3"/>
+            <head>The difference about Church-Government
+ended.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He great controverſie of theſe times being about
+the government of the Church, whereby wee
+may come into as great danger of cruel diſconti<g ref="char:EOLhyphen"/>on,
+when the preſent ſhall by Gods bleſſing be
+ended, and diverſe Books being written, <hi>pro</hi>
+and <hi>contra,</hi> by Presbyterians and Independants
+here about, whereby the difference is not likely
+to be compoſed, but increaſed more and more<g ref="char:punc">▪</g> Give me leave, though
+the leaſt and unworthieſt of them all, in briefe to declare what I
+conceive, and I thinke can ſolidly prove to be the onely true and
+right way wherein we ought to goe. And that God whom I have
+ſought unto for light herein, make my pure endeavours ſuccesfull,
+that this way being diſcovered, we may all with one conſent walke
+and perſevere in the ſame: and this is not the way by me firſt diſco<g ref="char:EOLhyphen"/>vered,
+but being ſtood for by ſome others before, that which upo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ſerious ſtudy and conſideration I am confirmed in more and more.
+And it is that in a Chriſtian Kingdom the deſtinction betwixt Ec<g ref="char:EOLhyphen"/>cleſiaſticall
+and Secular power and rule in reſpect of the exteriour
+exerciſe, by cenſuring and puniſhing offenders ceaſeth, all this pow<g ref="char:EOLhyphen"/>er
+being in the ſame perſons, <hi>viz.</hi> the higher powers, who are
+Gods Vicegerents upon earth, to mannage all Rule and Govern<g ref="char:EOLhyphen"/>ment
+over all cauſes and perſons under their Dominion, whether
+Secular or Eccleſiaſticall, and that Eccleſiaſticall perſons ought not
+to have any ſhare or part in this power, but onely to diſpenſe the
+myſteries of ſalvation, the Word and Sacraments, to put up the pe<g ref="char:EOLhyphen"/>titions
+of the congregation in publike, or of any particulars, as need
+ſhall require, to ordaine new Presbyters, and to joyne man and
+woman in marriage and in caſe of variance in opinion ariſing in
+the Church to have the chiefe ſtroke in determining the truth in a
+<pb n="2" facs="tcp:113618:4"/>
+Councel, and the determination by them ſo made all ought, ſo
+far as conſcience can poſſibly give leave, to ſtand to, of what eſtate
+or degree ſoever they be, and to be ſubject and obedient to them,
+or anyone of them in their ordinary adminiſtring of the Word,
+the higher powers compelling their Subjects in all lawf<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ways by
+penalties, who will not otherwiſe, to obey and receive their whol<g ref="char:EOLhyphen"/>ſome
+Doctrine in all things.</p>
+            <p>For proof of all this, and firſt, that all power in a Chriſtian
+Kingdom is in the ſame perſons, the higher powers, See <hi>Rom.</hi> 13. 1.
+<hi>Let every ſoule be ſubject to the higher powers,</hi> and as <hi>Bernard</hi> hath
+it to Pope <hi>Engenius, Si omnis anima, etiam veſtra,</hi> here by higher
+Powers are meant the civill Magiſtracie, as 1 <hi>Pet.</hi> 2. 13. is fur<g ref="char:EOLhyphen"/>ther
+explained where it is ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, <hi>Obey every humane Ordinance for
+the Lords ſake, whether the King as ſupreme, or thoſe that are ſet in
+authority under him.</hi> Wherefore all power is primitively in the
+King, where the Countrey is under a King, and derivatively inſuch
+as have commiſſion from him, and theſe are only Secular men, not
+Eccleſiaſticks, according to that of the Apoſtle, <hi>If yee have judge<g ref="char:EOLhyphen"/>ments
+in things pertaining to this life, ſet up them that are leaſt eſtee<g ref="char:EOLhyphen"/>med,
+in the Church, 1 Cor.</hi> 6. 4. That is, ſome common Chriſtians,
+no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miniſters of the Goſpel. And wherein the Magiſtrates pow<g ref="char:EOLhyphen"/>er
+is, he ſheweth ſaying, <hi>He beareth not the Sword in vain,</hi> but <hi>for
+the puniſhment of evill doers.</hi> From hence I argue thus.</p>
+            <p>They onely ought to rule and govern by cenſures and puniſh<g ref="char:EOLhyphen"/>ments
+that have this power given them of God:<note place="margin">Arg. 1.</note> but the civill
+Magiſtrates onely have this power given them of God, <hi>ergo,</hi> they
+onely ought to rule this way. The <hi>Major</hi> here cannot be doubted
+of, becauſe all power is of God: Nor the <hi>Minor,</hi> becauſe it is the
+expreſſe aſſertion of the Apoſtle.</p>
+            <p>Again,<note place="margin">Arg. 2.</note> that Government only ought to be in a Chriſtian King<g ref="char:EOLhyphen"/>dom,
+which is neceſſary for the welbeing thereof, and any other is
+ſuperfluous: but the government of the Civill Magiſtrate here is
+only neceſſary, <hi>Ergo,</hi> none elſe ought to be. Here the <hi>Minor</hi> only
+can be doubted (for <hi>fruſtra fit per plura<g ref="char:punc">▪</g> quod poteſt fieri per pau<g ref="char:EOLhyphen"/>ciora</hi>)
+but the truth hereof will appeare if we conſider, that there
+is no ſin or errour in any ſort of men, but the ſword of the Civill
+Magiſtrate cuts it down ſo ſoon as he hath notice thereof. Againſt
+<pb n="3" facs="tcp:113618:4"/>
+murther, adultery and perjury. Magiſtrates even in Heathen Na<g ref="char:EOLhyphen"/>tions
+have bin from time to time very ſevere, as it is neceſſary they
+ſhould, And againſt Witches, Idolaters, Drunkards, Theives,
+common Swearers and Sabbath-breakers, the ſword is ſharpned in
+this land, &amp; againſt Cheators, Forgeries and all other notoriotyes,
+yea, and againſt Blaſphemers, &amp; Sorcerers, to Lyers, and thoſe that
+believing them make diſturbance of the peace of the Kingdom, and
+where the Laws are not ſufficiently penall, the penalties may be
+aggravated. Our Laws alſo have provided, that perſons ſcanda<g ref="char:EOLhyphen"/>lous
+in their lives living in variance and hatred, rayling and cur<g ref="char:EOLhyphen"/>ſing
+and not reconciled ſhould be kept from the holy Communion,
+and now by Ordinance of Parliament it is provided, that igno<g ref="char:EOLhyphen"/>rant
+perſons ſhal be likewiſe hereby ſuſpended here from. And what
+then remayns, for which there is need for any other power to
+come in for, the well governing of the Church of Chriſt amongſt
+us, but only to authorize Miniſters, to whom it properly belongeth
+to try and find out, and ſuſpend the ignorant, ſome ſhort Cate<g ref="char:EOLhyphen"/>chiſme
+being firſt compiled of the Principles neceſſary by every
+Chriſtian to be know<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, beyond the bounds whereof no Miniſter
+may go in his examinations, or having tryed admit of any through
+partiality, that ſhall come ſhort of this knowledge, and in his try<g ref="char:EOLhyphen"/>all
+putting difference betwixt the ancient and the yonger, as Saint
+<hi>Paul</hi> directeth, 1 <hi>Tim.</hi> 5. 1. dealing with them as fathers with theſe,
+as brethren. And if the Miniſter through envy, pride, or enmity
+ſhall proceed otherwiſe with any, then is preſcribed, hee may be
+made lyable to give account thereof to the Magiſtrate; and if he be
+found guilty, to puniſhment therefore, but if not, the party com<g ref="char:EOLhyphen"/>playning
+to be ſoundly puniſht for his falſe accuſation. As for ſcan<g ref="char:EOLhyphen"/>dalous
+livers, let ſuch officers, as the Magiſtrate ſhall thinke fit, be
+appointed in every Pariſh, but let them be of the moſt religious and
+conſcionable, who may be tyed by <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to preſent them unto him,
+and as he ſhall find cauſe, let him direct his precept to the Mini<g ref="char:EOLhyphen"/>ſter
+to ſuſpend him, till he be reformed. If Officers ſo appointed be
+negligent, let it be commended to the care of any in the Congre<g ref="char:EOLhyphen"/>gotion,
+who have the ſpirit of <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in them, to complain of them
+to the Magiſtrate, that upon proof he may be ſoundly <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for his
+negligence in a matter <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to his <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: of ſo great impor<g ref="char:EOLhyphen"/>tance.</p>
+            <p>
+               <pb n="4" facs="tcp:113618:5"/>
+If none,<note place="margin">Arg. 3.</note> but Magiſtrates be capable of rule and dominion in re<g ref="char:EOLhyphen"/>ſpect
+of cenſures and puniſhments, then they only ought to have
+the rule: but none elſe are capable hereof, <hi>Ergo,</hi> none elſe ought to
+have this rule. The <hi>Minor</hi> which only can be doubted of is thus
+proved. The Miniſter of the Goſpell is not capable of it <hi>Ergo,</hi> none
+elſe. That he is not, appears, becauſe Chriſt oppoſeth the order of
+Preachers to Rulers, ſaying, <hi>The Princes of the Gentiles exerciſe
+dominion over them, but it ſhall not be ſo with you, Matth.</hi> 20. 25.
+that is, ye ſhal not rule over your brethren, and the moſt faithfull A<g ref="char:EOLhyphen"/>poſtle
+<hi>Peter</hi> exhorting Presbyters to feed the flocke of Chriſt com<g ref="char:EOLhyphen"/>mitted
+to them, when hee comes to ſpeake of ruling, doth it with
+this negative <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>not ruling over them, 1 Pet.</hi> 5. 1.</p>
+            <p>If it be here objected,<note place="margin">Ob.</note> Elders are deſcribed by ruling, 1 <hi>Tim.</hi> 5.
+17. <hi>The Elders that rule well, are worthy of double honour, Heb.</hi> 13.
+7. 17, 24. they are three times likewiſe deſcribed, and ſuch other
+additions made, as that it cannot be underſtood of any other Elders,
+but Preachers, as namely, <hi>Verſe 7. that have the rule over you, who
+have ſpoken unto you the Word of God. Verſe 17. that rule over you,
+for they watch for your ſouls.</hi> Therefore any Presbyter, <hi>quatenus</hi> a
+Presbyter preaching the Word of God, and a Watchman over
+ſouls is and ought to be a Ruler, and have power to cenſure.</p>
+            <p>I anſwer that the words rendred by ruling are in two of theſe
+places <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Sol.</note> ſignifieth not Rulers, but leaders, but becauſe lea<g ref="char:EOLhyphen"/>ders,
+as Captains, are Rulers, it is rendred Rulers, though all lea<g ref="char:EOLhyphen"/>ders
+or guides in a way be not Rulers in the ſenſe here ſpoken of.
+In the third place <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifieth alſo ſuch as goe before, not
+properly Rulers or Governours, therefore from hence nothing can
+be evinced to the purpoſe.</p>
+            <p>If it be further objected,<note place="margin">Ob.</note> the Keys are given to <hi>Peter,</hi> and by
+Keys according to the Scripture phraſe government is always un<g ref="char:EOLhyphen"/>derſtood,
+as <hi>Eſay 22. 22. The key of the houſe of David I will lay
+upon his ſhoulder, and he ſhall open and none ſhall ſhut,</hi> compared
+with <hi>Chap. 9. 6. The government ſhall be upon his ſhoulder, Revel.</hi> 3.
+7. <hi>He that hath the key of David.</hi> Here by the key of <hi>David</hi> is
+plainly ſet forth ſovereigne power in all things, therefore are the
+keys of the Kingdome of Heaven given to <hi>Peter, Matth.</hi> 16. the
+power of governing in things partayning to the Kingdom of Hea<g ref="char:EOLhyphen"/>ven,
+<pb n="5" facs="tcp:113618:5"/>
+that is, the Church, and what power was here given to <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi>
+is ſhowed to be given to all the Apoſtles, <hi>Matth. 18. 18. What<g ref="char:EOLhyphen"/>ſoever
+ye bind upon earth ſhall be bound in heaven &amp;c:</hi> becauſe here<g ref="char:EOLhyphen"/>in
+the power of the keys is ſhewed to lye by the words noted in
+the place before named, <hi>Whatſoever thou bindeſt upon earth, ſhall
+be bound in heaven,</hi> and <hi>John</hi> 20. 23. the ſame power is given to all
+the Apoſtles in words to the ſame effect, <hi>Whoſe ſins you remit they
+are remitted, &amp;c:</hi> and Saint <hi>Paul</hi> accordingly exerciſed this power,
+1 <hi>Tim.</hi> 1. 20. by delivering <hi>Hymenens</hi> and <hi>Alexander</hi> to Satan, &amp;
+touching the inceſtuous perſon as <hi>Corinth,</hi> ſaith he, <hi>I have judged,
+to deliver him to Satan, 1 Cor.</hi> 5. 3. but this he could not have done,
+unleſſe he had had ſuch power. And as having power to commit
+the like to other Preachers, hee gave <hi>Timothy</hi> a charge over the
+Church at <hi>Epheſus, 1 Tim.</hi> 1. 1. 18. and by vertue hereof he was to
+charge ſome not to preach any other doctrine, Implying a ruling
+power committed unto him, and to <hi>Titus</hi> to order things in <hi>Creet,
+Titus</hi> 1. 5. and <hi>Timothy</hi> is bidden to receive none accuſation againſt
+an Elder under two or three witneſſes, <hi>Chap.</hi> 5 19. And what is he
+that orders things in the Church, but a Ruler, or he before whom
+accuſations are brought.</p>
+            <p>To all this I anſwer, that <hi>Peter,</hi>
+               <note place="margin">Sol.</note> and the reſt of the Apoſtles for<g ref="char:EOLhyphen"/>gave
+ſins, and looſed by preaching ſalvation to the faithfull and re<g ref="char:EOLhyphen"/>pentant
+and retained ſins, and damn'd by preaching damnation
+to the impenitent, and <hi>Paul</hi> accurſeth thoſe that teach any other
+Doctrine, <hi>Gal.</hi> 1. Yea, and I doubt not, but by vertue of that do<g ref="char:EOLhyphen"/>nation,
+they and other Preachers their ſucceſſors, during the time
+that the Chriſtian Religion was imbraced but by ſome, and thoſe,
+of the meane: ſort, the greateſt, as Emperours, Kings, and Princes
+withſtanding it, had a ruling power by excommunications and
+other cenſures ſpirituall to deter the wicked amongſt them, and
+Hereticks and Schiſmaticks, and to make them aſhamed that they
+might be brought to repentance, and to releaſe them again. But it
+doth not hence follow that in a Chriſtian Kingdom, where there is a
+ſword ſufficiently ſharpned againſt all notorious wickedneſſes in
+people and in Miniſters, yea, and Magiſtrates alſo doing unjuſtly,
+that this cenſuring power of binding and looſing in particular
+Courts of Juſtice ſhould bee continued for the reaſon before going.
+<pb n="6" facs="tcp:113618:6"/>
+And thus the objection made from the power given to <hi>Timothy</hi> and
+<hi>Titus</hi> is anſwered alſo, it was but <hi>pro tempore,</hi> when Kings ſhould
+come on to be Chriſtians, the faithfull as well as others being then
+ſubjected to this civill coercive power, in all things as they were
+by <hi>Titus</hi> his teaching to be prepared, <hi>Tit. 3. 1. Put them in
+minde to be ſubject to Principalities and Powers, and to obey Magi<g ref="char:EOLhyphen"/>ſtrates,</hi>
+and it is reckoned up as one of the black brands of repro<g ref="char:EOLhyphen"/>bate
+Chriſtians, <hi>Jude ver. 8. To deſpiſe Dominions, and to ſpeake
+evill of dignities.</hi>
+            </p>
+            <p>But it will not be granted,<note place="margin">Arg. 3.</note> that if Preachers be not capable of
+this rule, that none elſe but Magiſtrates are<g ref="char:punc">▪</g> for there be other
+governments diſtinct from Paſtors and Teachers in the Church,
+1 <hi>Cor.</hi> 12. 28. and <hi>Rom.</hi> 12. 8. the ſame is plainly intimated, when
+after theſe charges, <hi>Let him that miniſtreth tend upon his miniſtring,
+and he that teacheth on teaching, &amp;c.</hi> it is added, <hi>hee that ruleth
+with diligence,</hi> and agreeably to theſe places 1 <hi>Tim.</hi> 5. 17. It is ſaid,
+<hi>The Elder that rules well is worthie of double honour,</hi> therefore
+there ought to be other Rulers in the Church beſides the Magiſtrate,
+to whom it properly belongs to cenſure in things Eccleſiaſticall.
+I anſwer, it is to be noted that the Ruler ſpoken of, <hi>Rom.</hi> 12. 8.
+and likewiſe the Governments. 1 <hi>Cor.</hi> 12. 28. are put after not
+onely Paſtors and Teachers but Helpes, ſet forth by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+that is Deacons alſo, as being the loweſt order in the Church,
+whereby is plainly intimated, that they had no power of cenſuring,
+for then they ſhould as ſuperiours have been placed before them,
+over whom they had power, or amongſt whom they had the chiefe
+power. 2. In two of theſe places the ſame word is uſed, which
+hath been already ſhewed, to ſignifie nothing but leaders, or men
+ſet over others or goers before, and therefore if there be ſome in
+each congregation ſet onely over the manners of men: to obſerve
+the irregular, and to admoniſh them, and if <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+wil not reform, to preſent them to the Magiſtrate, ſuch <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as the
+Apoſtle means are not wanting in the Church, but <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhal we ſay
+to the governments ſpoken of in the third place, doth not this word
+imply a power to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ye<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it doth, for Government is neceſſary
+to the well being of the Church of God<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but becauſe he ſay<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, not
+Governours, but Governments, the Office<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> where<g ref="char:EOLhyphen"/>by
+<pb n="7" facs="tcp:113618:6"/>
+the notorieties of men are brought to light that they might have
+condigne cenſure and puniſhment may well be underſtood by a
+Synechdoche, becauſe the Governours in whom the power is,
+are holpen in their ruling by them. For it is not credible either
+that any of the common people ſhould have power over their
+Teachers, or that by governments any other are ment, then ſuch as
+are otherwiſe called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as theſe Officers may well be,
+and yet not in ſo high a degree as they that preach the Word of
+God, for which they are ſet ſo low under them. The Government
+then goes right, according to the meaning of the Apoſtle, when
+the higher powers having cenſured they ſee to the execution, as
+are vigilant to examine privately, and to preſent the ſcandalous, and
+in the primitive times when they did thus officiate to the Presby<g ref="char:EOLhyphen"/>terie,
+conſiſting of grave and learned teachers. If it ſhould be o<g ref="char:EOLhyphen"/>therwiſe,
+none, it is to be feared, will be found fit in diverſe con<g ref="char:EOLhyphen"/>gregations,
+for ſuch authority, either for want of knowledge or un<g ref="char:EOLhyphen"/>blameableneſſe
+of life. 2 If any be in theſe reſpects, yet not be<g ref="char:EOLhyphen"/>cauſe
+<hi>homines plebes,</hi> and ſo ſubject to contempt, amongſt their fel<g ref="char:EOLhyphen"/>lows
+who would never ſtoop but to their ſuperiours in outward
+reſpects, to be ruled by them. 3 If they would, yet ſuch indigni<g ref="char:EOLhyphen"/>ty
+ſhould hereby be offered to Teachers, as were intollerable, and
+diſcouraging to ſome, either to enter the Miniſtry, or to continue
+in it.</p>
+            <p>Fourthly,<note place="margin">Arg. 4.</note> no ſuch government ought to be in a Chriſtian King<g ref="char:EOLhyphen"/>dom,
+but what hath been by Gods own direction or allowance a<g ref="char:EOLhyphen"/>mongſt
+his ancient people, the Iſraelites: but there was never any
+government Eccleſiaſticall diſtinct from the Civill. <hi>Ergo,</hi> none
+ſuch ought now to be in a Chriſtian Kingdome. For the <hi>Major</hi> it
+appears to be true, becauſe neither Chriſt nor his Apoſtles taught
+any thing, but what there was ground for in the Law and the
+Prophets. <hi>Caeſar</hi> muſt have the things of <hi>Caeſar,</hi> the Miniſter that
+Preacheth the Goſpell muſt live upon the Goſpell, as they that
+wayted upon the Altar, of the Altar. To preach and pray belongs
+to his office, as to the Prieſts to teach and offer ſacrifices for the
+people. And as none might preſume to doe this Prieſtly office, but
+the Prieſt, ſo none may preach, unleſſe they be ſent; that is, be or<g ref="char:EOLhyphen"/>dained
+according to the <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ection of Gods holy Word, that is, be<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:113618:7"/>
+firſt proved, then having the impoſition of the hands of the
+Presbytery, conſiſting, not of Laym<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in part, but altogether of
+Preachers, for as much as wee no where read of the impoſition of
+hands by any other. For the <hi>Minor, Moſes</hi> was firſt the ſole Ru<g ref="char:EOLhyphen"/>ler,
+and when this burthen was thought to be too great for him a<g ref="char:EOLhyphen"/>lone,
+ſeventy two more were joyned with him to help to beare it,
+<hi>Numb.</hi> 11. being choſen by ſixes out of every Tribe, of which
+Tribes <hi>Levi</hi> was counted none, there being twelve Tribes beſides
+to make up this number. After this the Judge and the ſeventy two
+ruled in all things. Light and direction to proceed according to
+Gods will, they were indeed to ſeek of the high Prieſt and Prieſts,
+<hi>whoſe lips muſt preſerve knowledge, and they muſt enquire the Law
+at his mouth, Mal.</hi> 2. 7. So <hi>Joſhuaſh</hi> muſt ſeek to <hi>Eleazer</hi> the high
+Prieſt, <hi>Numb.</hi> 27. 21. and in any difficult caſe they muſt come to
+the Prieſts, <hi>Deut.</hi> 17. 9. but the Judge and the Counſell of ſeventy
+two had all the power. Afterwards when Kings raigned in <hi>Iſrael,</hi>
+King <hi>Solomon</hi> put <hi>Abiather</hi> the high Prieſt from his office, ſetting
+up <hi>Zadoe,</hi> and <hi>David</hi> diſtinguiſhed the courſes of the Prieſts and
+other Godly Kings from time to time ruled in things Eccleſiaſtical
+and Prieſts never, till that after their return from the Babyloniſh
+captivity, Princes failing in the time of <hi>Antiochus, Epiphanes,
+Mattathias</hi> the Prieſt, and his ſonnes being neceſſitated to it took
+the government upon them both in things ſecular and ſpirituall.</p>
+            <p>
+               <hi>Matth.</hi>
+               <note place="margin">Ob.</note> 18. 17. <hi>Tell it to the Churches,</hi> and why to the Church,
+but becauſe it was his will that the Church ſhould have power of
+cenſuring, and if ſo, then not the Magiſtrate alone.</p>
+            <p>By the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> rendred Church,<note place="margin">Sol.</note> is not always underſtood
+the Congregation of Chriſtians, but ſometime any aſſembly, as
+<hi>Acts</hi> 19. 41. Here therefore may well be underſtood the judicatory,
+that then was amongſt the Jews before ſpoken of which yet con<g ref="char:EOLhyphen"/>tinued,
+and amongſt them when any ſhould afterwards be ſet up,
+of what perſons ſoever it conſiſted, and not any whole congrega<g ref="char:EOLhyphen"/>tion,
+that were ſuch a government as was never heard of in thoſe
+times, or the times preceding neither is it neceſſary that they ſhould
+be Officers properly Eccleſiaſticall, but any of the more honoura<g ref="char:EOLhyphen"/>ble
+amongſt people who have alſo power in the Common-wealth,
+may conſtitute this judicatory, but for the power of binding and
+<pb n="9" facs="tcp:113618:7"/>
+loſing ſpoken of <hi>Verſe</hi> 18. it belongs not to them, but to Preachers
+for which he changeth the perſon, ſaying, <hi>What yee bind upon earth
+ſhall be bound in Heaven,</hi> hereby giving them power <hi>pro tempore,</hi>
+that the inordinate might be awed till that Magiſtrates being
+converted they might be otherwiſe curbed. To cleere which the
+more, take this for a paraphraſe. If thy brother ſin againſt thee
+by doing thee any treſpaſſe or traducing thee, or detracting from
+thee, or offering thee any violence, and neyther by private telling
+him of it, nor by mediation of friends hee will be brought to ac<g ref="char:EOLhyphen"/>knowledge
+his fault, and ask thee forgiveneſſe, tell the Judges of it,
+who have authority to proceed againſt offenders that they may, if
+it be poſſible by threatning him with puniſhment cauſe him to re<g ref="char:EOLhyphen"/>pent<g ref="char:punc">▪</g>
+but if not ſo, give him over for an heathen incorrigible and
+no true Chriſtian, and let the Miniſters of the Church exclude him
+from the Sacrament or Communion of Chriſtians &amp; conſequently
+from life, neyther let him contemne, becauſe they that exclude
+him are but two or three d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpicable Miniſters of the Goſpel, who
+have none authority or power in this world. For whatſoever yee
+thus proceeding binde ſhall be bound, &amp;c. Yea, if there be not
+two but only one in that Church, for as it is here ſayd, <hi>Whatſoever
+yee bind</hi> in the plurall number, ſo <hi>Matth.</hi> 16. It is ſayd, <hi>Whatſoever
+thou bindeſt.</hi> And by vertue of this Commiſſion <hi>Paul</hi> alone delive<g ref="char:EOLhyphen"/>red
+<hi>Hymeneus</hi> and <hi>Alexander</hi> to Satan, 1 <hi>Tim.</hi> 1. 20. If it be de<g ref="char:EOLhyphen"/>manded,
+ſhall he not be bound from comming to the Congregation
+alſo? <hi>Anſ.</hi> By no means, becauſe even Heathens came into the
+Congregations, as may be gathered, <hi>Jam.</hi> 2. and if not, how ſhould
+they be converted? wherefore <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> excommunicating wholly our
+of the Church for any ſin is lawfull.</p>
+            <p>1 <hi>Cor.</hi>
+               <note place="margin">Object.</note> 5. <hi>Paul</hi> requires the <hi>Corinth:</hi> Church <hi>to put the inceſtuous
+man from amongst them,</hi> which argues authority to cenſure in the
+Church.</p>
+            <p>I deny not,<note place="margin">Sol.</note> but in thoſe times, there being yet no Chriſtian Ma<g ref="char:EOLhyphen"/>giſtracy
+it was neceſſary, that there ſhould be ſome authority in the
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, who preached the word to ſentence groſſe offenders,
+who would other wiſe have <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the greater blemiſhing
+of Chriſtianity. But this <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that it ought ſtill <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be in a
+Chriſtian Kingdom, <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> can be ſuffered,
+<pb n="10" facs="tcp:113618:8"/>
+although there be no Church Government to animadvert againſt
+him.</p>
+            <p>Having this proved, that the Government in all things in a
+Chriſtian Kingdom is and ought to be in the Civill Magiſtrate, let
+us now conſider the other part of my generall Propoſition concer<g ref="char:EOLhyphen"/>ning
+the Miniſters of the Goſpell. That to them it is committed to
+Preach and Baptize, and adminiſter the Supper of the Lord is plain
+from the laſt words of Chriſt, <hi>Go teach all Nations baptizing them,
+&amp;c. Matth.</hi> 28. and from the charge at the Inſtitution of the Lords
+Supper. <hi>Do this in remembrance of me.</hi> And they only may do theſe
+things, in any other it is pride and preſumption highly diſpleaſing to
+God to do the<g ref="char:cmbAbbrStroke">̄</g>, as in <hi>Saul</hi> to ſacrifice &amp; in <hi>Uzziak</hi> to burn Incenſe.
+2 That to them alſo it belongs to put up the Petitions of the Congre<g ref="char:EOLhyphen"/>gation
+&amp; of particular perſons in diſtreſſe, we may gather from Gods
+Ordinance that the Prieſts ſhould offer Sacrifice for the Congrega<g ref="char:EOLhyphen"/>tion,
+and for any perſon having treſpaſſed, but now troubled for it,
+of the Prophets, praying alſo in the Congregation, &amp;c. 1 <hi>Cor.</hi> 14.
+and for the ſick, <hi>Jam.</hi> 5. 16. Kings have ſometimes prayed publikely
+alſo, though they might not Sacrifice, as <hi>Solomon</hi> at the Dedication
+of the Temple, and <hi>Hezekiah,</hi> when many kept the Paſſover, who
+were not cl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſed, piety putting them on to it, and no prohibition
+lying againſt it. But theſe were rare and extraordinary acts and not
+be ordinarily drawn into imitation, as neyther that of <hi>Phineas</hi> a
+Prieſt killing <hi>Coſby</hi> and <hi>Zimri,</hi> and afterward going as a Captain
+againſt the <hi>Midianites.</hi> For not <hi>Moſes</hi> but <hi>Aaron</hi> muſt bleſſe or
+pray publikly for the Congregation, <hi>Numb.</hi> 6. 23. And when the
+plague was in the Hoſt, he, not <hi>Moſes</hi> muſt go up with his Cenſor
+by offering incenſe to ſtay it. 3 For ordayning Elders or Biſhops
+it is committed to <hi>Titus</hi> and <hi>Timothy</hi> not to others, who were not
+Preachers, or Elders themſelves, and <hi>Acts 14. 23. Paul</hi> and <hi>Barna<g ref="char:EOLhyphen"/>bas</hi>
+ordained Elders in every Church. 4 For joyning man and
+wiſe together, becauſe it ought not to be without prayer, bleſſing
+and inſtructing, and that in publike, who is ſo fit to doe it as a Mi<g ref="char:EOLhyphen"/>niſter.
+5 For obedience and ſubmiſſion unto them, though they
+have no power by cenſure in judiciary proceeding to compell, yet
+conſiderig the command, obey them that go before you in doctrine,
+and life, and are your Leaders, and ſubmit your ſelves to them, as to
+<pb n="11" facs="tcp:113618:8"/>
+them, <hi>that watch for your ſonis, Heb.</hi> 13. 17. There is no good
+Chriſtian<g ref="char:punc">▪</g> of what eſtate or degree ſoever, but for conſcience
+towards him that commands this, will readily do it. For when <hi>Ze<g ref="char:EOLhyphen"/>dekiah</hi>
+and the Princes of <hi>Judah</hi> would not obey <hi>Jeremiah.</hi> ſpeak<g ref="char:EOLhyphen"/>ing
+to them in the name and word of the Lord, what grievous
+things did they ſuffer by the <hi>Caldees.</hi> 6 For the Miniſters or
+Presbyters power in Councel, to manage controverſies in point of
+Religion, &amp; to determine, that which was done in the firſt famous
+Councel at <hi>Jeruſalem, Act.</hi> 15. ſpeaks plainly, &amp; therefore it hath
+been followed as a preſident in the pureſt times, by all the Chriſtian
+World, and that not without good ſucceſſe in many ages, to the
+ſuppreſſing of monſtrous errors, and to the keeping up of the u<g ref="char:EOLhyphen"/>nity
+of faith. Thus I have, by Gods aſſiſtance, made good my
+whole propoſition, which if it might in all parts be ſubſcribed to,
+Oh! what great good would enſue to us all thereby? The great
+controverſie touching Church Government ſo greatly troubling
+and diſturbing the whole Kingdom would be ſopi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, the diffe<g ref="char:EOLhyphen"/>rence
+betwixt Presbyterians and Independants ended, the many
+ſtrange and monſ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ous errours lately ſprung up, extirpated, claſhing
+and enterfeeing betwixt two ſorts of Governments removed, wick<g ref="char:EOLhyphen"/>ed
+men and Hereticks, who feare not the word, nor regard Church
+cenſures, terrified, and peace throughout the whole Kingdom
+ſetled. Now that I may yet more effectually move the mindes of
+all my brethren who ſhall read this, I ſhall add, that as it is law<g ref="char:EOLhyphen"/>full
+for the civill Magiſtrate to take all the gove<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nment into his
+hands, even in things Ecleſiaſticall, as hath been ſaid, ſo it is moſt
+expedient for us of the Miniſtry that they ſhould ſo doe, becauſe
+being exempt from this trouble, we ſhall be the more free to prayer,
+reading, meditation, preaching, and other holy offices properly
+belonging to our function, That thus we ought to bee, appears
+from the reaſon given by the Apoſtles, why they would have Dea<g ref="char:EOLhyphen"/>cons
+choſen to be over matters concerning the poor, <hi>viz.</hi> that they
+might wholy give themſelves to prayer, and the miniſtry of the
+Word, <hi>Act.</hi> 6. 4. For if the preacher muſt not be troubled about
+matters of charity, to gather and to diſtribute collections amongſt
+the poor, but ſome others of the congregation muſt have this of<g ref="char:EOLhyphen"/>fice,
+how much leſſe ought he to be troubled by keeping Cour<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s
+<pb n="12" facs="tcp:113618:9"/>
+at ſet times, and hearing and cenſuring ſins complained of there,
+1 <hi>Tim.</hi> 4. 13, 15. he muſt give himſelfe wh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly to reading, prayer,
+exhortation and Doctrine, and in ſo doing hee ſhall ſave himſelfe
+and thoſe that heare him.</p>
+            <p>2<g ref="char:punc">▪</g> We ſhall be leſſe liable to the emnity of the wicked, who can<g ref="char:EOLhyphen"/>not
+be without a grudge againſt ſuch as puniſh them, as experience
+hath taught in ſome other Church, wherein a ruling power is com<g ref="char:EOLhyphen"/>mitted
+to Miniſters amongſt others. It is true indeed, that a faithfull
+Preacher cannot avoid the hatred of the wicked, for they hated
+Chriſt aad therefore will hate them: yet becauſe they can leſſe en<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re
+to be cenſured by them, whom they know by birth to be mea<g ref="char:EOLhyphen"/>ner
+then themſelves, eſpecially ſome of them, it is more convenient
+that for this they ſhould be dealt with by men of eminencie in out<g ref="char:EOLhyphen"/>ward
+reſpects, that their prejudice againſt the Preacher may be the
+leſſe, and ſo he may be in more poſſibility, by his teaching, to doe
+their ſouls good. And for the like reaſon, no godly man of mean
+quality in any congregation can conveniently be ſet up as a Ruler
+over others<g ref="char:punc">▪</g> becauſe ſo he ſhall become more ſubject to conterupt
+and deriſion, and be made leſſe able to doe good amongſt his neigh<g ref="char:EOLhyphen"/>bours
+in private by ſtirring them up to love and good works, as
+hath been already ſaid.</p>
+            <p>3<g ref="char:punc">▪</g> We are Embaſſadours of Chriſt, 2 <hi>Cor.</hi> 5. 20. and therefore
+not to exerciſe power by cenſuring in anothers Kingdom, ſuch as
+the world of the wicked is: for they are under the Prince of the
+Ayre, and therefore by us to be dealt with, not by puniſhment, but
+by entreaty.</p>
+            <p>4<g ref="char:punc">▪</g> The Preacher being but a man, and yeſterday as it were, but,
+a Boy, and the contemptible ſon of a man of low degree, and every
+Preacher not having grace, judgment &amp; gravity fit for government
+if he be inveſted with power, is apt hereby to be puft up, and in u<g ref="char:EOLhyphen"/>ſing
+it, not to ſerve Chriſt, but his own luſts and paſſions, and there<g ref="char:EOLhyphen"/>fore
+to avoid this inconvenience, it is better for us to be without
+this power, then to have it, that we may be kept humble, and ſo the
+more gracious, and have our Auditours the more ready to hearken
+to us. For being in this ruling office, the beſt ſhall hardly eſcape the
+imputation of pride and although it be falſly, yet the power of our
+teaching will be much hereby weakned, ſith pride is contempti<g ref="char:EOLhyphen"/>ble
+<pb n="13" facs="tcp:113618:9"/>
+both to God and man. And here do not, I beſeeth you, my
+Brethren, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out upon me and ſay, I deal unnaturally thus to ſeek
+to pull down, and bring under all my fellow ſervants, and to tranſ<g ref="char:EOLhyphen"/>fer
+the honour of dominion from them to the Magiſtrate even in
+things pertayning to their calling. For ye ſhall ſtill have the higheſt
+honour in the world higher then Judges, for all men ſhall be judged
+according to your Goſpel, then Nobles, for their greateſt honour
+is to be ſent Embaſſadours by earthly Kings but yours that ye are
+Embaſſadours of Chriſt, theirs that they may be the Kings Privy
+Counſellors, yours, that God makes you of his counſell, for the
+Lord will do nothing but he reveals it to his ſervants the Prophets,
+and again theirs<g ref="char:punc">▪</g> that they are Generals of Armies to ſubdue Re<g ref="char:EOLhyphen"/>bels,
+and to quell Enemies, yours that ye have weapons and ſtrength
+committed to you to overthrow ſtrong holds, 2 <hi>Cor.</hi> 10. 4. and to
+root out and deſtroy Kingdoms and Nations, that be rebellious a<g ref="char:EOLhyphen"/>gainſt
+God, <hi>Jer.</hi> 1. 10. Laſtly, higher then Kings, for their greateſt
+honour is that they rule over the outward man, yours that ye rule
+and have power in the conſcience in ſuch as have a conſcience,
+theirs that they bear the ſecular ſword, yours that ye manage the
+ſpirituall, which is ſharper then any two-edged ſword, theirs that
+they can terrifie by threatning corporal death yours that ye threaten
+eternall, and laſtly theirs that they are over all other men in things
+pertaining to men, yours that ye are over all other men, &amp; them al<g ref="char:EOLhyphen"/>ſo
+in things pertayning to God, and to their everlaſting welfare to
+teach, guide and direct them, and to bleſſe them, whereby they
+may be furthered thereunto, and if yet ye would have more, take
+this as the greateſt perfection of bleſſedneſſe, that in the regenera<g ref="char:EOLhyphen"/>tion
+ye ſhall ſit upon thrones, and ſo come to the honour of judg<g ref="char:EOLhyphen"/>ing
+and reigning with Chriſt for ever. And if this be your honour,
+though no rulling power be given unto you here, complain not of
+being trodden down, but rather joy, that the government ſhould
+be in ſuch hands as in whoſe of right it ought to be, and it is moſt
+expedient for you that it be, and help what ye are able to bring it
+to this, as every one, that prefers the truth before his own advance<g ref="char:EOLhyphen"/>ment
+ought to do. And ye Magiſtrates and Rulers of the world
+be entreated to uſe this your power aright, in Gods way to beat
+down errours and notorious ſins in every place, and as the ſemina<g ref="char:EOLhyphen"/>ry
+<pb n="14" facs="tcp:113618:10"/>
+of errours, private preachings by ſuch as intrude themſelves into
+this office, beig never called thereunto, as was <hi>Aaron,</hi> &amp; to encou<g ref="char:EOLhyphen"/>rage
+to learning &amp; piety, &amp; to conſtancy in the truth, as being ſet up
+to rule in all things, not for your ſelves, but for God, who hath of ſin<g ref="char:EOLhyphen"/>gular
+mercy thus highly honoured you. If any ſhalthink this to be
+written for ſlattery &amp; not in ſyncerity, he ſhal do me great wrong,
+who as God knows, have none other end, but to bring the truth,
+of which I am perſwaded to light, as ſeeing none other way to ap<g ref="char:EOLhyphen"/>peaſe
+the terrible tempeſt of contrary winds of doctrine, ſo dan<g ref="char:EOLhyphen"/>gerouſly
+toſſing the ſhip of the Church, that it is ready otherwiſe to
+ſink in this State, which God forbid and therefore make every Bro<g ref="char:EOLhyphen"/>ther,
+that ſhall read me, not an high-ſpirited <hi>Diotrephes</hi> who loveth
+preeminence, but a lowly minded <hi>Apollo,</hi> who ſubmitted himſelf to
+learne the truth more perfectly, even of <hi>Priſcilla</hi> and <hi>Aquila</hi> al<g ref="char:EOLhyphen"/>though
+he were a man mighty in the Word, and they but Tent<g ref="char:EOLhyphen"/>makers,
+how-ever more verſed at that time then he in the doctrine
+of the Goſpel. But if any one being unſatisfied with that which hath
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſayd ſhall have a mind to contend, let me intreat him not to do it
+with words comming from a pen dipt in gall and vinegar, but with
+ſolid Argument according to that of <hi>Auguſtine, Sacrae Scripturae
+authoritate res cum re, cauſa cum causâ, ratio cum ratione con<g ref="char:EOLhyphen"/>cer<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113618:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
